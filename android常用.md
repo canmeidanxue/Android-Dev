@@ -10,4 +10,5 @@ android开发工具： http://www.androiddevtools.cn/</br>
 **APP自动更新下载:**blog.csdn.net/shan_yao/article/details/51881913</br>
 **基于MVP+Retrofit+RxJava+MaterialDesign的App:** http://blog.csdn.net/sdkfjksf/article/details/51889828</br>
 **RecyclerView深入浅出：** http://kymjs.com/code/2016/07/10/01</br>
-**Android多渠道打包：** http://blog.csdn.net/qq_23547831/article/details/51569261
+**Android多渠道打包：** http://blog.csdn.net/qq_23547831/article/details/51569261</br>
+**Android Studio配置CheckStyle：**http://blog.csdn.net/ownwell/article/details/49023727</br>
