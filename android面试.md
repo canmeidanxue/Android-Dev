@@ -8,6 +8,7 @@ http://www.bingjie.me/2016/05/08/%E6%89%AB%E6%B8%85Android%E9%9D%A2%E8%AF%95%E9%
 **6.面试题目：**</br>http://yuweiguocn.github.io/2016/04/13/interview-2016-big-company/</br>
 **7.面试常见问题：**</br>https://github.com/canmeidanxue/InterviewQuestion</br>
 **8.面试产品描述：**</br>http://www.jianshu.com/p/233ef7b624fc</br>
+**9. 国内一线互联网公司内部面试题库：**</br>http://blog.csdn.net/rain_butterfly/article/details/51946197</br>
 #招聘网站汇总
 **1.内推：**</br>http://www.neitui.me/</br>
 **2.拉钩：**</br>http://www.lagou.com/</br>
